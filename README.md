@@ -1,0 +1,2 @@
+# Real-Time-Detection-of-Brute-Force-Login-Attacks-Using-Splunk
+Real-Time Detection of Brute-Force Login Attacks Using Splunk focuses on monitoring Windows Security logs in real time to identify multiple failed login attempts. Using Splunk and Universal Forwarder, the system detects Event ID 4625 and triggers alerts when three or more incorrect passwords are entered, indicating possible brute-force activity.
